@@ -206,7 +206,7 @@ body .check-out-left [id*="cartx-section-continue_button"] {
 div#cartx-section-checkout_shipping_information {
     display: none;
 }
-  /* Borda colorida no cabeÃ§alho */
+  /* Borda colorida no cabeÃ§alho 
   body[class*="template-"]::before {
       content: '';
       background: var(--line_bg) no-repeat;
@@ -221,7 +221,7 @@ div#cartx-section-checkout_shipping_information {
       box-shadow: 0px 5px 8px -6px #00000085;
       -webkit-animation: var(--movcolor) 5s linear 1s infinite;
       animation: var(--movcolor) 5s ease infinite  
-  }
+  }*/
   @-webkit-keyframes rgbAnimation {  
       0% {background-position: 0% 50%}
       50% {background-position: 100% 50%}
