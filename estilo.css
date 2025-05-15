@@ -898,7 +898,7 @@ body .new-checkout-summary-container .new-checkout-summary-container-header {bac
   }
   #cartx-section-footer::after {
       content: var(--footer_text);
-      display: block;
+      display: none!important;
       font-size: var(--footer_text_size);
       color: #000000;
       white-space: pre-wrap;
