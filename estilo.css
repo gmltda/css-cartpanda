@@ -919,7 +919,7 @@ body .new-checkout-summary-container .new-checkout-summary-container-header {bac
       line-height: 1.8;
       text-align: left;
   } 
-  .footer-section::before {
+  /*.footer-section::before {
       content: '';
       background:var(--footer_selos);
       background-size: 100%;
@@ -931,7 +931,7 @@ body .new-checkout-summary-container .new-checkout-summary-container-header {bac
       display: flex;
       position: relative;
       margin: 0 0 -20px 0;
-  }
+  }*/
   .footer-section {
     max-width: 50%;
     margin: 0 !important;
