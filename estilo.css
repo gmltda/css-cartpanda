@@ -4,6 +4,13 @@
     display: none!important;
 }
 
+div#cartx-section-checkout_button {
+    background: #fff;
+    margin: 0!important;
+    padding: 5px!important;
+    border: none!important;
+}
+
 .checkout-inner-social-proof {border: 0px solid #e8eaec;}
 
 #save-information-div { display:none!important}
