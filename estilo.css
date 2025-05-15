@@ -199,6 +199,9 @@ body .check-out-left [id*="cartx-section-continue_button"] {
       white-space: pre;
       z-index: 1000;
   }
+div#cartx-section-checkout_shipping_information {
+    display: none;
+}
   /* Borda colorida no cabeÃ§alho */
   body[class*="template-"]::before {
       content: '';
