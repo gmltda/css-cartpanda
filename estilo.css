@@ -856,6 +856,7 @@ body .new-checkout-summary-container .new-checkout-summary-container-header {bac
 
   @media (max-width:1000px) { 
   #cartx-section-checkout_summary {
+      display:none!important;
       max-width: 96%;
       margin: 17px auto !important;
       padding: 0 10px !important;
