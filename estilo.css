@@ -1,5 +1,9 @@
 /* Feito em 17 04 2025 */
-  
+
+.wrapper {
+    display: none!important;
+}
+
 /* Box Cupom  */  
 body.template-checkout .coupon_success {
     display: flex;
