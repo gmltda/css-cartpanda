@@ -229,7 +229,7 @@ div#cartx-section-checkout_shipping_information {
       100% {background-position: 0% 50%}  
   }  
   /* Topbar */
-  .checkout-header-section:before {
+  /*.checkout-header-section:before {
       content: var(--topbar_text);
       background: var(--topbar_bg);
       position: relative;
@@ -243,7 +243,7 @@ div#cartx-section-checkout_shipping_information {
       box-shadow: 0px 0px 0px 0px black;
       align-items: center;
       justify-content: center;
-  }
+  }*/
   @media (max-width:768px) {
   .wrapper:before {
       content: var(--logo_mb_text);
