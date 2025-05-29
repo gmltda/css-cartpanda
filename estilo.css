@@ -999,7 +999,7 @@ body .new-checkout-summary-container .new-checkout-summary-container-header {bac
       color: var(--footer_mb_cards_text_color);
       justify-content: center;
       align-items: center;
-      margin: 20px 0;
+      /*margin: 20px 0;*/
     }  
   }
 
