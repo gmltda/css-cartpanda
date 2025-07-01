@@ -738,6 +738,7 @@ body.template-checkout .panel .panel-heading[aria-expanded="true"] {box-shadow: 
       padding: 4px 7px;
       height: auto;
       font-size: 11px;
+      margin-top: 20px;
    }  
   .boleto-pay-section:before {font-size: 3vw} 
 
