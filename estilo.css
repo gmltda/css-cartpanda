@@ -956,8 +956,11 @@ body .new-checkout-summary-container .new-checkout-summary-container-header {bac
       height: var(--footer_cards_height);
       display: flex;
       position: relative;
+      place-self: center;
   }
-
+#cartx-section-footer {
+    justify-content: center;
+}
   @media (min-width:769px) {
   :has(.inner-checkout-left-three-step) #cartx-section-footer {
       max-width: 1103px;
